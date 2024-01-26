@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scale=no">
+    <title>Bio-data</title>
+    <link rel="stylesheet"href="style.css">
+    
+</head>
+
+<body>
+    <div class="container">
+        <div class="biodatabox">
+            <table cellspacing="20px">
+                <tr colspan="2">
+                    <td colspan="2" class="hed">Bio-Data<br>_____<br><br><br></td>
+
+                </tr>
+                <tr colspan="2">
+                    <td colspan="2" class="heds"> Personal Detail : ---<br><br></td>
+                </tr>
+
+                <tr>
+                    <td class="given"> Name </td>
+                    <td class="ans b"> :-&nbsp; <span class="name">SANDIP DEY</span></td>
+                </tr>
+                <TR>                
+                <td class="given"> Father name </td>
+                <td class="ans"> :-&nbsp; APAJIT DEY </td>
+            </tr>
+            <tr>
+                <td class="given"> Mother name </td>
+                <td class="ans"> :-&nbsp; NILIMA DEY</td>
+            </tr>
+                <tr>
+                    <td class="given"> SEX:- </td>
+                    <td class="ans "> :-&nbsp; <span class="ans">MALE</span></td>
+                </tr>
+                <tr>
+                    <td class="given"> CAST:- </td>
+                    <td class="ans "> :-&nbsp; <span class="ans">GENARAL</span></td>
+                </tr>
+                <tr>
+                    <td class="given"> NATIONALITY:- </td>
+                    <td class="ans "> :-&nbsp; <span class="ans">indian</span></td>
+                </tr>
+                <tr>
+                    <td class="given"> MARITAL STATUS:- </td>
+                    <td class="ans "> :-&nbsp; <span class="ANS">SINGAL</span></td>
+                </tr>
+               
+                <tr>
+                    <td class="given"> Date of Birth </td>
+                    <td class="ans"> :-&nbsp; 24/03/2005 </td>
+                </tr>
+                <tr>
+                    <td class="given"> Height </td>
+                    <td class="ans"> :-&nbsp; 5.6</td>
+                </tr>
+                <tr>
+                    <td class="given"> Blood Group </td>
+                    <td class="ans"> :-&nbsp; +A </td>
+                </tr>
+                <tr>
+                    <td class="given"> Hobbies </td>
+                    <td class="ans"> :-&nbsp; CODING AND GAMEING </td>
+                </tr>
+            </table>
+            <fieldset class="field">
+                <legend class="hedsa">&nbsp;&nbsp;-- : QUALIFICATION : --&nbsp;&nbsp;&nbsp;&nbsp;</legend>
+
+                <table cellspacing="20px">
+
+                    
+                    <tr>
+
+                    <tr colspan="2">
+                        <td colspan="2" class="heds">Brothers :--</td>
+
+                    </tr>
+                    <tr>
+                        <td class="given"> MADHYAMIK:- </td>
+                        <td class="ans"> :-&nbsp; (W.B.B.S.E),PASSING:-2021,MARKS OBTAINED:-80%</td>
+                    </tr>
+                    <tr>
+                        <td class="given"> HIGHER SECONDARY </td>
+                        <td class="ans"> :-&nbsp; (W.B.C.H.S.E),PASSING:-2023,MARKS OBTAINED:-76% </td>
+                    </tr>
+                </table>
+            </fieldset>
+            <table cellspace="20px">
+                <tr>
+                    <td colspan="2" class="heds"><br> Contact Detail –<br></td>
+                </tr>
+                <tr>
+                    <td class="given"><br> Address </td>
+                    <td class="ans"> :-&nbsp; MUKSUDPUR,DEBRA,PASCHIM MEDINIPUR </td>
+                </tr>
+                <TR>
+                    <td class="given"><br> EMAIL:- </td>
+                    <td class="ans"> :-&nbsp; SD627960@GMAIL.COM</td>
+                </TR>
+                <TR>
+                <td class="given"><br> STATE:- </td>
+                <td class="ans"> :-&nbsp;WEST BENGAL </td>
+               </TR>
+               <td class="given"><br> PIN:-</td>
+               <td class="ans"> :-&nbsp; 721126 </td>
+                <tr>
+                    <td class="given"><br> Mobil No </td>
+                    <td class="ans"> :-&nbsp; 7797019808 </td>
+                </tr>
+            </table>
+
+
+        </div>
+    </div>
+
+</body>
+
+
+
+</html>
