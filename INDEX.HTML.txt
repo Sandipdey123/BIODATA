@@ -73,11 +73,11 @@
 
                 <table cellspacing="20px">
 
+
                     
                     <tr>
 
                     <tr colspan="2">
-                        <td colspan="2" class="heds">Brothers :--</td>
 
                     </tr>
                     <tr>
